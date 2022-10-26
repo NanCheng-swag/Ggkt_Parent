@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/My_Ggkt_Progject.iml" filepath="$PROJECT_DIR$/.idea/My_Ggkt_Progject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggkt_parent/common/common.iml" filepath="$PROJECT_DIR$/ggkt_parent/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggkt_parent/ggkt_parent.iml" filepath="$PROJECT_DIR$/ggkt_parent/ggkt_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggkt_parent/model/model.iml" filepath="$PROJECT_DIR$/ggkt_parent/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggkt_parent/service/service.iml" filepath="$PROJECT_DIR$/ggkt_parent/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggkt_parent/service_gateway/service_gateway.iml" filepath="$PROJECT_DIR$/ggkt_parent/service_gateway/service_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggkt_parent/common/service_utils/service_utils.iml" filepath="$PROJECT_DIR$/ggkt_parent/common/service_utils/service_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggkt_parent/service/service_vod/service_vod.iml" filepath="$PROJECT_DIR$/ggkt_parent/service/service_vod/service_vod.iml" />
+    </modules>
+  </component>
+</project>
